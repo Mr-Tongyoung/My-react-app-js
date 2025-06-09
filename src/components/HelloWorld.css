@@ -1,0 +1,16 @@
+.box{
+    background-color: blue;
+    /* px vs vh (vw) */
+    /* px vs em vs rem */
+    /* px is absolute and does not scale with font size */
+    /* vh is relative to the viewport height */
+    /* vw is relative to the viewport width */
+    /* em is relative to the font size of the element */
+    /* rem is relative to the font size of the root element */
+    text-align: center;
+    font-size: 40px;
+}
+
+.p{
+    text-align: center;
+}
